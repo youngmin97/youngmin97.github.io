@@ -150,9 +150,8 @@ project:
       date: 2020 - present
       description: |
         Personal project description...
-
 skill:
-  show: true
+  show: false
   order: 4
   title: Skills
   description: |
@@ -211,28 +210,32 @@ education:
     In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
 
   items:
-    - institution: Example University
-      link: '#'
-      date: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - institution: Korea Advanced Institute of Science and Technology (KAIST)
+      link: 
+      date: 2022.03 - Present
+      major: Electrical Engineering
+      degree: Ph.D.
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        + Advisor: Hyeon-Min Bae
 
-    - institution: Example University
+    - institution: Korea Advanced Institute of Science and Technology (KAIST)
+      link: 
+      date: 2020.03 - 2022.02
+      major: Electrical Engineering
+      degree: M.S.
+      description: |
+        + Advisor: Hyeon-Min Bae
+        + Thesis: End-to-end neural network for adaptive Rx beamforming for speed of sound heterogeneity compensation
+
+    - institution: Korea Advanced Institute of Science and Technology (KAIST)
       link:
-      date: 2011 - 2015
-      major: Computer Science
+      date: 2015.03 - 2020.02
+      major: Electrical Engineering
       degree: Bachelor
       description: |
-        Additional information for this institution.
-        + First
-        + Second
-
+        
 certificate:
-  show: true
+  show: false
   order: 6
   title: Certificates
   description: |
