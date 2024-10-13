@@ -212,28 +212,22 @@ education:
 
   items:
     - institution: Korea Advanced Institute of Science and Technology (KAIST)
-      link: 
+      link: '#'
       date: 2022.03 - Present
       major: Electrical Engineering
       degree: Ph.D.
       description: |
         + Advisor: Hyeon-Min Bae
 
-    - institution: Korea Advanced Institute of Science and Technology (KAIST)
-      link: 
-      date: 2020.03 - 2022.02
-      major: Electrical Engineering
-      degree: M.S.
-      description: |
-        + Advisor: Hyeon-Min Bae
-        + Thesis: End-to-end neural network for adaptive Rx beamforming for speed of sound heterogeneity compensation
-
-    - institution: Korea Advanced Institute of Science and Technology (KAIST)
+    - institution: Example University
       link:
-      date: 2015.03 - 2020.02
-      major: Electrical Engineering
+      date: 2011 - 2015
+      major: Computer Science
       degree: Bachelor
       description: |
+        Additional information for this institution.
+        + First
+        + Second
 
 certificate:
   show: true
