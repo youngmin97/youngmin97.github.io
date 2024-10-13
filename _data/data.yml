@@ -150,6 +150,7 @@ project:
       date: 2020 - present
       description: |
         Personal project description...
+        
 skill:
   show: true
   order: 4
