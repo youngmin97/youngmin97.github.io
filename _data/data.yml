@@ -120,13 +120,13 @@ experience:
       role: Teaching assistant
       location: Daejeon, Korea
       description: |
-        + Analog Electronic Circuits (Fall 2020, Spring 2021, Spring 2023, Fall 2024)
-        + Electronic Circuits (Spring 2021, Fall 2023)
-        + Data Structures and Algorithms for Electrical Engineering (Fall 2024)
-        + Introduction to Electronics Design Lab. (Spring 2023)
-        + Digital Electronic Circuits (Fall 2022)
-        + Circuit Theory (Fall 2021)
-        + Introduction to Semiconductor Physics (Spring 2020)
+      + Analog Electronic Circuits (Fall 2020, Spring 2021, Spring 2023, Fall 2024)
+      + Electronic Circuits (Spring 2021, Fall 2023)
+      + Data Structures and Algorithms for Electrical Engineering (Fall 2024)
+      + Introduction to Electronics Design Lab. (Spring 2023)
+      + Digital Electronic Circuits (Fall 2022)
+      + Circuit Theory (Fall 2021)
+      + Introduction to Semiconductor Physics (Spring 2020)
 
     - company: Hanon Systems
       link:
@@ -135,7 +135,7 @@ experience:
       role: Electrical Components Development 
       location: Daejeon, Korea
       description: |
-        + Development of a Power Consumption Calculation Program for Power Semiconductors IGBT Used in Inverters
+      + Development of a Power Consumption Calculation Program for Power Semiconductors IGBT Used in Inverters
 
 project:
   show: true
