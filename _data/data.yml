@@ -125,9 +125,9 @@ experience:
 
     - company: Hanon Systems
       link:
-      tags: Internship Program
+      tags:
       date: 2018.03 - 2018.08
-      role: Electrical Components Development 
+      role: Internship Program
       location: Daejeon, Korea
       description: |
         + Development of a Power Consumption Calculation Program for Power Semiconductors IGBT Used in Inverters
