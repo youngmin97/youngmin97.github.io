@@ -111,45 +111,60 @@ experience:
   order: 2
   title: Experiences
   description: |
+    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
-    - company: KAIST
-      link:
-      tags: 
-      date: 2020.03 - 2024.06
-      role: Teaching assistant
-      location: Daejeon, Korea
+    - company: Second Company
+      link: '#'
+      tags: Full-time
+      date: 2018.03 - 2019.03
+      role: Backend Developer
+      location: Beijing
       description: |
-        + Analog Electronic Circuits (Fall 2020, Spring 2021, Spring 2023, Fall 2024)
-        + Electronic Circuits (Spring 2021, Fall 2023)
-        + Data Structures and Algorithms for Electrical Engineering (Fall 2024)
-        + Introduction to Electronics Design Lab. (Spring 2023)
-        + Digital Electronic Circuits (Fall 2022)
-        + Circuit Theory (Fall 2021)
-        + Introduction to Semiconductor Physics (Spring 2020)
+        Your key responsibilities and achievements in the company.
+        + First
+        + Second
 
-    - company: Hanon Systems
+    - company: First Company
       link:
-      tags: Internship Program
-      date: 2018.03 - 2018.08
-      role: Electrical Components Development 
-      location: Daejeon, Korea
+      tags: Part-time, remote
+      date: 2017.03 - 2018.03
+      role: Backend Developer
+      location: Beijing
       description: |
-        + Development of a Power Consumption Calculation Program for Power Semiconductors IGBT Used in Inverters
+        Your key responsibilities and achievements in the company.
+        + First
+        + Second
 
 project:
   show: true
   order: 3
   title: Projects
   description: |
-  
+    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
+
+    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
+
+    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
+
   items:
-    - name: The Development and commercialization of AI based high performance structural functional and quantitative ultrasound imaging equipment and imaging system software platform
+    - name: Personal project
       link: '#'
       tags:
-      date: 2020 - present
+      date: 2015 - 2017
       description: |
         Personal project description...
+        + First
+        + Second
+
+    - name: OSS project
+      link:
+      tags: committer
+      date:
+      description: |
+        OSS project description...
+        + First
+        + Second
 
 skill:
   show: true
@@ -211,30 +226,26 @@ education:
     In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
 
   items:
-    - institution: Korea Advanced Institute of Science and Technology (KAIST)
-      link: 
-      date: 2022.03 - Present
-      major: Electrical Engineering
-      degree: Ph.D.
+    - institution: Example University
+      link: '#'
+      date: 2015 - 2018
+      major: Machine Learning
+      degree: Master
       description: |
-        + Advisor: Hyeon-Min Bae
+        Additional information for this institution.
+        + First
+        + Second
 
-    - institution: Korea Advanced Institute of Science and Technology (KAIST)
-      link: 
-      date: 2020.03 - 2022.02
-      major: Electrical Engineering
-      degree: M.S.
-      description: |
-        + Advisor: Hyeon-Min Bae
-        + Thesis: End-to-end neural network for adaptive Rx beamforming for speed of sound heterogeneity compensation
-
-    - institution: Korea Advanced Institute of Science and Technology (KAIST)
+    - institution: Example University
       link:
-      date: 2015.03 - 2020.02
-      major: Electrical Engineering
+      date: 2011 - 2015
+      major: Computer Science
       degree: Bachelor
       description: |
-        
+        Additional information for this institution.
+        + First
+        + Second
+
 certificate:
   show: true
   order: 6
