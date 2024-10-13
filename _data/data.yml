@@ -3,17 +3,17 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title 
+  name: Young-Min Kim                      # name
+  title: Ph.D. Candidate           # job title 
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # file path or link to your avatar
 
 contact:
-  location: Beijing, China  # location, text or markdown link syntax
-  email: me@example.com     # email address
-  phone: +86-111-2222-3333  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com      # site link without schema, like example.com, will automatically prepend "https://"
+  location: Daejeon, Korea  # location, text or markdown link syntax
+  email: youngmin2007@kaist.ac.kr     # email address
+  phone:                    # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website:                  # site link without schema, like example.com, will automatically prepend "https://"
 
   gender:                   # gender or pronoun
   birthday:                 # birthday
@@ -25,7 +25,7 @@ contact:
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github:                   # https://github.com/<username>
+  github: youngmin97        # https://github.com/<username>
   gitlab:                   # https://gitlab.com/<username>
   bitbucket:                # https://bitbucket.com/<username>
   git:                      # selfhost git site link without schema "https://"
@@ -38,7 +38,7 @@ contact:
   tryhackme:                # https://tryhackme.com/p/<username>
 
   # research
-  googlescholar:            # https://scholar.google.com/citations?user=<username>
+  googlescholar: P3f3yjYAAAAJ&hl           # https://scholar.google.com/citations?user=<username>
   researchgate:             # https://www.researchgate.net/profile/<username>
   orcid:                    # https://orcid.org/<id>
   figshare:                 # https://figshare.com/authors/<name/id>
@@ -60,7 +60,7 @@ contact:
   producthunt:              # https://www.producthunt.com/@<username>
 
   # cv
-  linkedin:                 # https://linkedin.com/in/<username>
+  linkedin: young-min-kim-49861b300                # https://linkedin.com/in/<username>
   indeed:                   # https://my.indeed.com/p/<id>
   xing:                     # https://www.xing.com/profile/<username>
   fiverr:                   # https://www.fiverr.com/<username>
