@@ -151,7 +151,7 @@ project:
       description: |
         Personal project description...
 skill:
-  show: false
+  show: true
   order: 4
   title: Skills
   description: |
@@ -235,7 +235,7 @@ education:
       description: |
         
 certificate:
-  show: false
+  show: true
   order: 6
   title: Certificates
   description: |
