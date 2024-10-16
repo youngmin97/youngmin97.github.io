@@ -232,7 +232,7 @@ education:
       degree: B.S.
 
 certificate:
-  show: true
+  show: false
   order: 6
   title: Certificates
   description: |
@@ -262,24 +262,119 @@ publication:
   show: true
   order: 7
   title: Publications
-  description: |
-    The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
-
-    Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
-
-    If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
-
-    Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
 
   items:
-    - title: Example Publication in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: '#'
-    - title: The Art of Example Publication
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+    - title: "[C22] Key-point Guided Deformable Image Manipulation Using Diffusion Model"
+      authors: Seok-Hwan Oh*, Guil Jung*, Myeong-Gee Kim, Sang-Yun Kim, Young-Min Kim, Hyunjik Lee, Hyuksool Kwon, Hyeon-Min Bae
+      conference: British Machine Vision Converence (BMVC), Nov.2024.
+      Description: Orally Presented
+      
+    - title: "[C21] Quantitative Assessment of Thyroid Nodules through Ultrasound Imaging Analysis"
+      authors: Young-Min Kim, Myeong-Gee Kim, Seok-Hwan Oh, Guil Jung, Hyunjik Lee, Sang-Yun Kim, Hyuksool Kwon, Sang-Il Choi, Hyeon-Min Bae
+      conference: International Conference on Medical Image Computing & Computer Assisted Intervention (MICCAI), Oct.2024.
+      Description: First Author, Early Accept(top 11%), Orally Presented
+      
+    - title: "[C20] Uncertainty-aware Meta-weighted Optimization Framework for Domain-Generalized Medical Image Segmentation"
+      authors: Seok-Hwan Oh*, Guil Jung*, Sang-Yun Kim, Myeong-Gee Kim, Young-Min Kim, Hyunjik Lee, Hyuksool Kwon, Hyeon-Min Bae
+      conference: International Conference on Medical Image Computing & Computer Assisted Intervention (MICCAI), Oct.2024.
+  
+    - title: "[C19] Cardiac Anatomic-Aware Echocardiography Wall Motion Estimation"
+      authors: Seok-Hwan Oh, Guil Jung, Sang-Yun Kim, Myeong-Gee Kim, Young-Min Kim, Hyunjik Lee, Hyuksool Kwon, Hyeon-Min Bae
+      conference: IEEE International Ultrasound Symposium (IUS), Sept.2024.
+      Description: Orally Presented
+      
+    - title: "[C18] Breast Tumor Image Synthesis based on Diffusion Probabilistic Model"
+      authors: Seok-Hwan Oh, Guil Jung, Myeong-Gee Kim, Young-Min Kim, Hyunjik Lee, Sang-Yun Kim, Hyuksool Kwon, Hyeon-Min Bae
+      conference: IEEE International Ultrasound Symposium (IUS), Sept.2024.
+      Description: Orally Presented
+      
+    - title: "[C17] Drag-Based Key-Point Control for Myocaridal Infarction Echocardiography Video Generation"
+      authors: Guil Jung, Seok-Hwan Oh, Myeong-Gee Kim, Hyunjik Lee, Young-Min Kim, Sang-Yun Kim, Hyuksool Kwon, Hyeon-Min Bae
+      conference: IEEE International Ultrasound Symposium (IUS), Sept.2024.
+      
+    - title: "[C16] CAMDA Net: Cross Attention Multi-Modal Domain Adaption using B-mode and Sinogram"
+      authors: Hyunjik Lee, Seok-Hwan Oh, Young-Min Kim, Guil Jung, Sang-Yun Kim, Myeong-Gee Kim, Hyuksool Kwon, Hyeon-Min Bae
+      conference: IEEE International Ultrasound Symposium (IUS), Sept.2024.
+      
+    - title: "[C15] Transformer-based Knowledge Distillation for Echocardiography Image Segmentation"
+      authors: Sang-Yun Kim, Seok-Hwan Oh, Guil Jung, Young-Min Kim, Hyunjik Lee, Myeong-Gee Kim, Hyuksool Kwon, Hyeon-Min Bae
+      conference: IEEE International Ultrasound Symposium (IUS), Sept.2024.
+      
+    - title: "[J4] Enhancing Breast Cancer Detection through Advanced AI-Driven Ultrasound Technology: A Comprehensive Evaluation of Vis-BUS"
+      authors: Hyuksool Kwon, Seok-Hwan Oh, Myeong-Gee Kim, Young-Min Kim, Guil Jung, Hyeon-Jik Lee, Sang-Yun Kim, Hyeon-Min Bae
+      conference: Diagnostics, Aug.2024.
+  
+    - title: "[J3] Artificial Intelligence-Enhanced Quantitative Ultrasound for Breast Cancer: Pilot Study"
+      authors: Hyuksool Kwon*, Seok-Hwan Oh*, Myeong-Gee Kim, Young-Min Kim, Guil Jung, Hyeon-Jik Lee, Sang-Yun Kim, Hyeon-Min Bae
+      conference: Diagnostics, Jun.2024.
+      
+    - title: "[C14] Myocardium Tissue Characteristics Quantification in Echocardiography"
+      authors: Guil Jung, Young-Min Kim, Hyeon-Jik Lee, Seok-Hwan Oh, Myeong-Gee Kim, Hyuksool Kwon, Hyeon-Min Bae
+      conference: IEEE International Symposium on Biomedical Imaging (ISBI), May.2024.
+      
+    - title: "[C13] Quantitative Ultrasound Imaging using Conventional Multi-Scanline Beamforming"
+      authors: Young-Min Kim, Myeong-Gee Kim, Seok-Hwan Oh, Guil Jung, Hyeon-Jik Lee, Hyuksool Kwon, Hyeon-Min Bae
+      conference: IEEE International Symposium on Biomedical Imaging (ISBI), May.2024.
+      Description: First Author
+      
+    - title: "[J2] Application on Quantitative Ultrasonography and Artificial Intelligence for Assessing Severity of Fatty Liver: A Pilot Study"
+      authors: Hyuksool Kwon*, Myeong-Gee Kim*, Seok-Hwan Oh, Young-Min Kim, Guil Jung, Hyeon-Jik Lee, Hyeon-Min Bae
+      conference: Diagnostics, Feb.2024.
+      
+    - title: "[C12] Spatio-Temporal Quantitative Ultrasound Imaging for Breast Cancer Identification"
+      authors: Seok-Hwan Oh, Myeong-Gee Kim, Young-Min Kim, Guil Jung, Hyuksool Kwon, Hyeon-Min Bae
+      conference: IEEE International Symposium on Biomedical Imaging (ISBI), Apr.2023.
+      
+    - title: "[C11] Quantitative Imaging with a Single Probe in Abdominal Ultrasound"
+      authors: Myeong-Gee Kim, Seok-Hwan Oh, Young-Min Kim, Guil Jung, Hyunjik Lee, Hyuksool Kwon, Hyeon-Min Bae
+      conference: SPIE Medical Imaging, Feb.2023.
+      
+    - title: "[C10] Knowledge Distillation for Mobile Quantitative Ultrasound Imaging"
+      authors: Seok-Hwan Oh, Myeong-Gee Kim, Young-Min Kim, Guil Jung, Hyunjik Lee, Hyeon-Min Bae
+      conference: IEEE International Ultrasound Symposium (IUS), Oct.2022.
+      
+    - title: "[C9] Optical Flow Assisted Super-Resolution Ultrasound Localization Microscopy using Deep Learning"
+      authors: Hyunjik Lee, Seok-Hwan Oh, Myeong-Gee Kim, Young-Min Kim, Guil Jung, Hyeon-Min Bae
+      conference: IEEE International Ultrasound Symposium (IUS), Oct.2022.
+      
+    - title: "[C8] Myocardial Attenuation Quantification for Diagnosis of Ischemic Heart Disease"
+      authors: Young-Min Kim, Guil Jung, Myeong-Gee Kim, Seok-Hwan Oh, Hyunjik Lee, Hyeon-Min Bae
+      conference: IEEE International Ultrasound Symposium (IUS), Oct.2022.
+      description: First Author
+      
+    - title: "[C7] Left Ventrical Wall Segmentation in Echocardiography using B-mode Image and Radio Frequency Signal Jointly"
+      authors: Guil Jung, Young-Min Kim, Myeong-Gee Kim, Seok-Hwan Oh, Hyunjik Lee, Hyeon-Min Bae
+      conference: IEEE International Ultrasound Symposium (IUS), Oct.2022.
+      
+    - title: "[C6] Sensor Geometry Generalization to Untrained Conditions in Quantitative Ultrasound Imaging"
+      authors: Seok-Hwan Oh, Myeong-Gee Kim, Young-Min Kim, Guil Jung, Hyuksool Kwon, Hyeon-Min Bae
+      conference: International Conference on Medical Image Computing & Computer Assisted Intervention (MICCAI), Sep.2022.
+      
+    - title: "[C5] Learning-based Attenuation Quantification in Abdominal Ultrasound"
+      authors: Myeong-Gee Kim, Seok-Hwan Oh, Young-Min Kim, Hyuksool Kwon, Hyeon-Min Bae
+      conference: International Conference on Medical Image Computing & Computer Assisted Intervention (MICCAI), Sep.2021.
+      description: Early Accept, top 13%
+      
+    - title: "[C4] A Neural Framework for Multi-Variable Lesion Quantification Through B-mode Style Transfer"
+      authors: Seok-Hwan Oh, Myeong-Gee Kim, Young-Min Kim, Hyuksool Kwon, Hyeon-Min Bae
+      conference: International Conference on Medical Image Computing & Computer Assisted Intervention (MICCAI), Sep.2021.
+      
+    - title: "[C3] Learning Based Approach for Speed-of-Sound Adaptive Rx Beamforming"
+      authors: Young-Min Kim, Myeong-Gee Kim, Seok-Hwan Oh, Guil Jung, Hyeon-Min Bae
+      conference: IEEE International Ultrasound Symposium (IUS), Sep.2021.
+      description: First Author
+      
+    - title: "[J1] Robust Single-Probe Quantitative Ultrasonic Imaging System with a Target-Aware Deep Neural Network"
+      authors: Myeong-Gee Kim, Seok-Hwan Oh, Young-Min Kim, Hyuksool Kwon, Hyeon-Min Bae
+      conference: IEEE Transactions on Biomedical Engineering (TBME), Jun.2021.
+      
+    - title: "[C2] A Learned Representation for Multi-Variable Ultrasonic Lesion Quantification"
+      authors: Seok-Hwan Oh, Myeong-Gee Kim, Young-Min Kim, Hyeon-Min Bae
+      conference: IEEE International Symposium on Biomedical Imaging (ISBI), Apr.2021.
+      
+    - title: "[C1] Quantitative Imaging Network for Versatile Ultrasound Tomography"
+      authors: Seok-Hwan Oh, Myeong-Gee Kim, Gibbeum Lee, Young-Min Kim, Hyeon-Min Bae
+      conference: SPIE Medical Imaging, Feb.2021.
 
 award:
   show: true
