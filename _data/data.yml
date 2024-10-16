@@ -152,7 +152,7 @@ project:
         Personal project description...
 
 skill:
-  show: true
+  show: false
   order: 4
   title: Skills
   description: |
