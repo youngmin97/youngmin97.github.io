@@ -226,15 +226,10 @@ education:
         + Advisor: Hyeon-Min Bae
         + Thesis: End-to-end neural network for adaptive Rx beamforming for speed of sound heterogeneity compensation
         
-    - institution: Example University
-      link:
-      date: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      description: |
-        Additional information for this institution.
-        + First
-        + Second
+    - institution: Korea Advanced Institute of Science and Technology (KAIST)
+      date: 2015.03 - 2020.02
+      major: Electrical Engineering
+      degree: B.S.
 
 certificate:
   show: true
