@@ -153,7 +153,7 @@ project:
 
 skill:
   show: false
-  order: 4
+  order: 
   title: Skills
   description: |
     The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
@@ -233,7 +233,7 @@ education:
 
 certificate:
   show: false
-  order: 6
+  order: 
   title: Certificates
   description: |
     The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
@@ -377,8 +377,8 @@ publication:
       conference: SPIE Medical Imaging, Feb.2021.
 
 award:
-  show: true
-  order: 8
+  show: false
+  order: 
   title: Awards
   description: |
     The award section in a resume is a dedicated section where you can showcase any awards you have received. This section is particularly relevant for individuals who have received awards for their work in their field, such as employees who have received performance awards or industry-specific awards. In this section, you should list the name of the award, the organization or institution that awarded it, the date it was awarded, and any other relevant details.
@@ -402,8 +402,8 @@ award:
         It's my Example Awared Two by Example.
 
 patent:
-  show: true
-  order: 9
+  show: false
+  order: 
   title: Patents
   description: |
     The patent section in a resume is a dedicated section where you can showcase any patents that you have been granted or are in the process of obtaining. This section is particularly relevant for individuals who work in scientific or technical fields, as well as for individuals who have developed innovative products or technologies.
@@ -426,8 +426,8 @@ patent:
     + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
 
 organization:
-  show: true
-  order: 10
+  show: false
+  order: 
   title: Organizations
   description: |
     The organization section in a resume, specifically for social contexts, is a section where you can showcase any relevant involvement or leadership positions in social, cultural, or community organizations. This section can highlight your commitment to social causes and your ability to work collaboratively with others towards a common goal.
@@ -437,8 +437,8 @@ organization:
     This section can be especially valuable for candidates seeking positions in the non-profit sector, social work, or community engagement roles, where experience in social or cultural organizations can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards social change. However, it is important to only include organizations that are relevant to the job you are applying for, and avoid listing organizations that may be controversial or potentially offensive.
 
 language:
-  show: true
-  order: 11
+  show: false
+  order: 
   title: Languages
   description: |
     The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
@@ -469,8 +469,8 @@ interest:
       link:
 
 evaluation:
-  show: true
-  order: 13
+  show: false
+  order: 
   title: Self-evaluation
   description: |
     The self-evaluation section in a resume is a section where you can evaluate and assess your own skills, strengths, and weaknesses. It is typically a short paragraph or bullet points at the end of your resume, which provides a personal perspective on your abilities and how they align with the requirements of the job.
@@ -480,8 +480,8 @@ evaluation:
     A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
 
 reference:
-  show: true
-  order: 14
+  show: false
+  order: 
   title: References
   description: |
     A reference section in a resume is a list of individuals who can vouch for your skills, work ethic, and character. These individuals are typically former managers, colleagues, or mentors who have worked closely with you in the past and can provide insight into your abilities and work style.
