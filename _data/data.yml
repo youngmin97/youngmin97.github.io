@@ -141,13 +141,14 @@ project:
   show: true
   order: 5
   title: Projects
-  description: |
+  # description: |
   
   items:
     - name: The Development and commercialization of AI based high performance structural functional and quantitative ultrasound imaging equipment and imaging system software platform
       date: 2020 - present
-      # description: |
-      #   Personal project description...
+      description: |
+        + Development and commercialization of AI-based high-performance intelligent ultrasound imaging devices for structural, functional, and quantitative analysis
+        + Development and commercialization of a software platform that enables integration of new imaging techniques into existing equipment
 
 skill:
   show: false
