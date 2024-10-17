@@ -145,11 +145,9 @@ project:
   
   items:
     - name: The Development and commercialization of AI based high performance structural functional and quantitative ultrasound imaging equipment and imaging system software platform
-      link: '#'
-      tags:
       date: 2020 - present
-      description: |
-        Personal project description...
+      # description: |
+      #   Personal project description...
 
 skill:
   show: false
@@ -263,13 +261,15 @@ publication:
   items:
     - title: "[C22] Key-point Guided Deformable Image Manipulation Using Diffusion Model"
       authors: Seok-Hwan Oh*, Guil Jung*, Myeong-Gee Kim, Sang-Yun Kim, Young-Min Kim, Hyunjik Lee, Hyuksool Kwon, Hyeon-Min Bae
-      conference: British Machine Vision Converence (BMVC), Nov.2024.
-      Description: Orally Presented
+      conference: |
+      + British Machine Vision Converence (BMVC), Nov.2024.
+      + Orally Presentd
+      description: Orally Presented
       
     - title: "[C21] Quantitative Assessment of Thyroid Nodules through Ultrasound Imaging Analysis"
       authors: Young-Min Kim, Myeong-Gee Kim, Seok-Hwan Oh, Guil Jung, Hyunjik Lee, Sang-Yun Kim, Hyuksool Kwon, Sang-Il Choi, Hyeon-Min Bae
       conference: International Conference on Medical Image Computing & Computer Assisted Intervention (MICCAI), Oct.2024.
-      Description: First Author, Early Accept(top 11%), Orally Presented
+      description: First Author, Early Accept(top 11%), Orally Presented
       
     - title: "[C20] Uncertainty-aware Meta-weighted Optimization Framework for Domain-Generalized Medical Image Segmentation"
       authors: Seok-Hwan Oh*, Guil Jung*, Sang-Yun Kim, Myeong-Gee Kim, Young-Min Kim, Hyunjik Lee, Hyuksool Kwon, Hyeon-Min Bae
@@ -278,12 +278,12 @@ publication:
     - title: "[C19] Cardiac Anatomic-Aware Echocardiography Wall Motion Estimation"
       authors: Seok-Hwan Oh, Guil Jung, Sang-Yun Kim, Myeong-Gee Kim, Young-Min Kim, Hyunjik Lee, Hyuksool Kwon, Hyeon-Min Bae
       conference: IEEE International Ultrasound Symposium (IUS), Sept.2024.
-      Description: Orally Presented
+      description: Orally Presented
       
     - title: "[C18] Breast Tumor Image Synthesis based on Diffusion Probabilistic Model"
       authors: Seok-Hwan Oh, Guil Jung, Myeong-Gee Kim, Young-Min Kim, Hyunjik Lee, Sang-Yun Kim, Hyuksool Kwon, Hyeon-Min Bae
       conference: IEEE International Ultrasound Symposium (IUS), Sept.2024.
-      Description: Orally Presented
+      description: Orally Presented
       
     - title: "[C17] Drag-Based Key-Point Control for Myocaridal Infarction Echocardiography Video Generation"
       authors: Guil Jung, Seok-Hwan Oh, Myeong-Gee Kim, Hyunjik Lee, Young-Min Kim, Sang-Yun Kim, Hyuksool Kwon, Hyeon-Min Bae
@@ -312,7 +312,7 @@ publication:
     - title: "[C13] Quantitative Ultrasound Imaging using Conventional Multi-Scanline Beamforming"
       authors: Young-Min Kim, Myeong-Gee Kim, Seok-Hwan Oh, Guil Jung, Hyeon-Jik Lee, Hyuksool Kwon, Hyeon-Min Bae
       conference: IEEE International Symposium on Biomedical Imaging (ISBI), May.2024.
-      Description: First Author
+      description: First Author
       
     - title: "[J2] Application on Quantitative Ultrasonography and Artificial Intelligence for Assessing Severity of Fatty Liver: A Pilot Study"
       authors: Hyuksool Kwon*, Myeong-Gee Kim*, Seok-Hwan Oh, Young-Min Kim, Guil Jung, Hyeon-Jik Lee, Hyeon-Min Bae
