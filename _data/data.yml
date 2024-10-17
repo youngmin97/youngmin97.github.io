@@ -450,7 +450,7 @@ interest:
   show: True
   order: 2
   title: Interests
-  description: Quantitative ultrasonic imaging, tomography, and neural architecture design for image reconstruction. 
+  description: My research interests include quantitative ultrasonic imaging, tomography, and neural architecture design for image reconstruction. 
   # items:
   #   - name: Deep Learning
   #     description: |
