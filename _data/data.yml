@@ -261,11 +261,7 @@ publication:
   items:
     - title: "[C22] Key-point Guided Deformable Image Manipulation Using Diffusion Model"
       authors: Seok-Hwan Oh*, Guil Jung*, Myeong-Gee Kim, Sang-Yun Kim, Young-Min Kim, Hyunjik Lee, Hyuksool Kwon, Hyeon-Min Bae
-      conference: |
-      British Machine Vision Converence (BMVC), Nov.2024.
-      
-      Orally Presentd
-      
+      conference: British Machine Vision Converence (BMVC), Nov.2024.
       description: Orally Presented
       
     - title: "[C21] Quantitative Assessment of Thyroid Nodules through Ultrasound Imaging Analysis"
