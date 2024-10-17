@@ -108,7 +108,7 @@ profile:
   
 experience:
   show: true
-  order: 5
+  order: 6
   title: Experiences
   description: |
     
@@ -139,7 +139,7 @@ experience:
 
 project:
   show: true
-  order: 4
+  order: 5
   title: Projects
   description: |
   
@@ -201,7 +201,7 @@ skill:
 
 education:
   show: true
-  order: 2
+  order: 3
   title: Education
   description: |
   
@@ -255,7 +255,7 @@ certificate:
 
 publication:
   show: true
-  order: 3
+  order: 4
   title: Publications
 
   items:
@@ -447,23 +447,22 @@ language:
       level: Professional
 
 interest:
-  show: false
-  order: 
+  show: True
+  order: 2
   title: Interests
-  description: |
-  
-  items:
-    - name: Deep Learning
-      description: |
-        + Pattern: Overlaps in Hypergraphs ([C1]), Tendency of simple approaches in hypergraph sampling ([C2 & J1])
+  description: Quantitative ultrasonic imaging, tomography, and neural architecture design for image reconstruction. 
+  # items:
+  #   - name: Deep Learning
+  #     description: |
+  #       + Pattern: Overlaps in Hypergraphs ([C1]), Tendency of simple approaches in hypergraph sampling ([C2 & J1])
         
-    - name: Medical Ultrasound
-      description: |
-        + Pattern: Overlaps in Hypergraphs ([C1]), Tendency of simple approaches in hypergraph sampling ([C2 & J1])
+  #   - name: Medical Ultrasound
+  #     description: |
+  #       + Pattern: Overlaps in Hypergraphs ([C1]), Tendency of simple approaches in hypergraph sampling ([C2 & J1])
         
-    - name: Quantitative Ultrasound
-      description: |
-        + Pattern: Overlaps in Hypergraphs ([C1]), Tendency of simple approaches in hypergraph sampling ([C2 & J1])
+  #   - name: Quantitative Ultrasound
+  #     description: |
+  #       + Pattern: Overlaps in Hypergraphs ([C1]), Tendency of simple approaches in hypergraph sampling ([C2 & J1])
     
 evaluation:
   show: false
