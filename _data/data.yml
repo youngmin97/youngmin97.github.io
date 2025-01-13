@@ -104,7 +104,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    I am a Ph.D. student in the NAIS lab at KAIST Department of EE, where I am advised by Prof. Hyeon-Min Bae. I hold a M.S. and B.S. in Electrical Engineering from KAIST.
+    I am a Ph.D. student in the NAIS lab at EE, KAIST, where I am advised by Prof. Hyeon-Min Bae. I hold a M.S. and B.S. in Electrical Engineering from KAIST.
   
 experience:
   show: true
