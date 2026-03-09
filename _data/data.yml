@@ -4,7 +4,7 @@ meta:
 
 basic:
   name: Young-Min Kim                      # name
-  title: Ph.D. Candidate           # job title 
+  title: Ph.D.           # job title 
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # file path or link to your avatar
@@ -104,8 +104,8 @@ profile:
   order: 1
   title: Profile
   description: |
-    I am a Ph.D. student in the NAIS lab at EE, KAIST, where I am advised by Prof. Hyeon-Min Bae. I hold a M.S. and B.S. in Electrical Engineering from KAIST.
-  
+    I am a Principal AI Engineering in Barreleye, Korea. I hold a Ph.D., M.S., and B.S. in Electrical Engineering from KAIST.
+      
 experience:
   show: true
   order: 6
@@ -113,6 +113,15 @@ experience:
   description: |
     
   items:
+    - company: Barreleye, Inc.
+      link: https://barreleye.co.kr
+      tags: 
+      date: 2025.08. - Present
+      role: Principal AI Engineer, AI Team
+      location: Seoul, Korea
+      description: |
+        + Development of Quantitative Ultrasound Imaging in linear ultrasound probe, called Int-Linear.
+        
     - company: KAIST
       link:
       tags: 
@@ -145,7 +154,7 @@ project:
   
   items:
     - name: The Development and commercialization of AI based high performance structural functional and quantitative ultrasound imaging equipment and imaging system software platform
-      date: 2020 - present
+      date: 2020 - 2024
       description: |
         + Development and commercialization of AI-based high-performance intelligent ultrasound imaging devices for structural, functional, and quantitative analysis
         + Development and commercialization of a software platform that enables integration of new imaging techniques into existing equipment
@@ -208,11 +217,12 @@ education:
   
   items:
     - institution: Korea Advanced Institute of Science and Technology (KAIST)
-      date: 2022.03 - Present
+      date: 2022.03 - 2025.08
       major: Electrical Engineering
       degree: Ph.D.
       description: |
         + Advisor: Hyeon-Min Bae
+        + Thesis: Learning based approach for quantitative assessment of thyroid nodules using ultrasound imaging systems
         
     - institution: Korea Advanced Institute of Science and Technology (KAIST)
       date: 2020.03 - 2022.02
@@ -260,6 +270,31 @@ publication:
   title: Publications
 
   items:
+    - title: "[J5] Quantification of Thyroid Nodules in Multiple Ultrasonography Systems"
+      authors: Young-Min Kim, Myeong-Gee Kim, Seok-Hwan Oh, Guili Jung, Hyeon-Jik Lee, Sang-Yun Kim, Jungjae Son, Hyuk-Sool Kwon, Sang-Il Choi, Hyeon-Min Bae
+      conference: Medical Image Analysis (MedIA), Feb.2026.
+      
+    - title: "[C27] Optical Flow-Guided Echocardiography Label Augmentation for the Segment Anything Model"
+      authors: Guil Jung, Seok-Hwan Oh, Hyeon-Jik Lee, Myeong-Gee Kim, Young-Min Kim, Sang-Yun Kim, Jung-Jae Son, Hyuk-Sool Kwon, Hyeon-Min Bae
+      conference: ISBI 2026, Orally Presented
+      description: Orally Presented
+
+    - title: "[C26] Semi-supervised Key-Point Estimation for Echocardiography Video"
+      authors: Seok-Hwan Oh, Hyeon-Jik Lee, Guil Jung, Myeong-Gee Kim, Young-Min Kim, Hyuk-Sool Kwon, Hyeon-Min Bae
+      conference: WACV 2026
+
+    - title: "[C25] PDF-net: A Flow Matching Network for PSF Deconvolution in Echocardiography"
+      authors: Sang-Yun Kim, Seok-Hwan Oh, Myeong-Gee Kim, Young-Min Kim, Guil Jung, Hyeon-Jik Lee, Jung-Jae Son, Hyuk-Sool Kwon, Hyeon-Min Bae
+      conference: IUS 2025
+
+    - title: "[C24] Ultrasound-derived Absorption Coefficient Quantification for Operator-independent Fatty Liver Diagnosis"
+      authors: Myeong-Gee Kim, Seok-Hwan Oh, Young-Min Kim, Guil Jung, Hyeon-Jik Lee, Sang-Yun Kim, Hyuk-Sool Kwon, Hyeon-Min Bae
+      conference: Medical Imaging 2025: Ultrasonic Imaging and Tomography
+
+    - title: "[C23] Multitask Affinity Learning for Quantitative Ultrasound Imaging"
+      authors: Seok-Hwan Oh, Myeong-Gee Kim, Young-Min Kim, Guil Jung, Hyeon-Jik Lee, Hyuk-Sool Kwon, Hyeon-Min Bae
+      conference: Medical Imaging 2025: Clinical and Biomedical Imaging
+      
     - title: "[C22] Key-point Guided Deformable Image Manipulation Using Diffusion Model"
       authors: Seok-Hwan Oh*, Guil Jung*, Myeong-Gee Kim, Sang-Yun Kim, Young-Min Kim, Hyunjik Lee, Hyuksool Kwon, Hyeon-Min Bae
       # conference: British Machine Vision Converence (BMVC), Nov.2024.
