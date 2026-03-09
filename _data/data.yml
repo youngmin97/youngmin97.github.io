@@ -272,7 +272,7 @@ publication:
   items:
     - title: "[J5] Quantification of Thyroid Nodules in Multiple Ultrasonography Systems"
       authors: Young-Min Kim, Myeong-Gee Kim, Seok-Hwan Oh, Guili Jung, Hyeon-Jik Lee, Sang-Yun Kim, Jungjae Son, Hyuk-Sool Kwon, Sang-Il Choi, Hyeon-Min Bae
-      conference: Medical Image Analysis (MedIA), Feb.2026.
+      conference: Medical Image Analysis (MedIA), Feb.2026., First Author, Invited
       description: First Author, Invited
 
     - title: "[C27] Optical Flow-Guided Echocardiography Label Augmentation for the Segment Anything Model"
@@ -290,11 +290,11 @@ publication:
 
     - title: "[C24] Ultrasound-derived Absorption Coefficient Quantification for Operator-independent Fatty Liver Diagnosis"
       authors: Myeong-Gee Kim, Seok-Hwan Oh, Young-Min Kim, Guil Jung, Hyeon-Jik Lee, Sang-Yun Kim, Hyuk-Sool Kwon, Hyeon-Min Bae
-      conference: "Medical Imaging 2025: Ultrasonic Imaging and Tomography"
+      conference: SPIE Medical Imaging 2025
 
     - title: "[C23] Multitask Affinity Learning for Quantitative Ultrasound Imaging"
       authors: Seok-Hwan Oh, Myeong-Gee Kim, Young-Min Kim, Guil Jung, Hyeon-Jik Lee, Hyuk-Sool Kwon, Hyeon-Min Bae
-      conference: "Medical Imaging 2025: Clinical and Biomedical Imaging"
+      conference: SPIE Medical Imaging 2025
       
     - title: "[C22] Key-point Guided Deformable Image Manipulation Using Diffusion Model"
       authors: Seok-Hwan Oh*, Guil Jung*, Myeong-Gee Kim, Sang-Yun Kim, Young-Min Kim, Hyunjik Lee, Hyuksool Kwon, Hyeon-Min Bae
